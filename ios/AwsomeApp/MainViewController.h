@@ -2,7 +2,7 @@
 //  MainViewController.h
 //  LearnGit
 //
-//  Created by Michael Liao on 4/22/14.
+//  Created by Primo Lin on 4/22/14.
 //  Copyright (c) 2014 iTranswarp. All rights reserved.
 //
 

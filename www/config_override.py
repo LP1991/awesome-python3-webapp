@@ -5,10 +5,10 @@
 Override configurations.
 '''
 
-__author__ = 'Michael Liao'
+__author__ = 'Primo Lin'
 
 configs = {
     'db': {
-        'host': '127.0.0.1'
+        'host': '10.1.20.130'
     }
 }

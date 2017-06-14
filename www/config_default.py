@@ -5,16 +5,16 @@
 Default configurations.
 '''
 
-__author__ = 'Michael Liao'
+__author__ = 'Primo Lin'
 
 configs = {
     'debug': True,
     'db': {
-        'host': '127.0.0.1',
+        'host': '10.1.20.130',
         'port': 3306,
-        'user': 'www',
-        'password': 'www',
-        'db': 'awesome'
+        'user': 'root',
+        'password': 'root',
+        'db': 'test'
     },
     'session': {
         'secret': 'Awesome'
